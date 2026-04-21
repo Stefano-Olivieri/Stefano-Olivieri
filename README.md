@@ -4,7 +4,7 @@
 
 🔭 Sto lavorando su workflow automation, integrazioni API e progetti web.  
 ⚙️ Mi piace costruire sistemi utili con n8n, Gmail, Jira, Slack e servizi cloud.  
-💬 Se vuoi parlare di automazioni, integrazioni o ottimizzazione processi, scrivimi.
+
 
 - 🌍 Milano, Italia
 - 🧠 Attualmente sto approfondendo n8n, API orchestration e workflow design
