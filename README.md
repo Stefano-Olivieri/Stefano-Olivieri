@@ -6,15 +6,14 @@
 ⚙️ Mi piace costruire sistemi utili con n8n, Gmail, Jira, Slack e servizi cloud.  
 💬 Se vuoi parlare di automazioni, integrazioni o ottimizzazione processi, scrivimi.
 
-- 🌍 Basato a Milano, Italia
+- 🌍 Milano, Italia
 - 🧠 Attualmente sto approfondendo n8n, API orchestration e workflow design
 - 🤝 Aperto a collaborazioni su automazioni, tooling e progetti web
 - ⚡ Interessi: automazione, web, home networking, gaming e card games
 
 ### Dove trovarmi
 - Sito: [stefanoolivieri.com](https://stefanoolivieri.com)
-- LinkedIn: [il-tuo-link]
-- Email: [la-tua-email]
+- LinkedIn: https://www.linkedin.com/in/stefano-olivieri82/
 
 ### Stack / strumenti
 ![n8n](https://img.shields.io/badge/n8n-ef6c00?style=for-the-badge&logo=n8n&logoColor=white)
